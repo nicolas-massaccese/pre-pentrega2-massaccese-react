@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "assets/img/alpha.png",
+        "modelo": "Alpha",
+        "tipo": "Mochila",
+        "tamanio":"35x20x15cm",
+        "genero": "unisex",
+        "precio": 14000,
+        "stock": 6,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 2,
+        "imgSrc": "assets/img/amelia.png",
+        "modelo": "Amelia",
+        "tipo": "Mochila",
+        "tamanio":"25x15x10cm",
+        "genero": "unisex",
+        "precio": 12000,
+        "stock": 6,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 3,
+        "imgSrc": "assets/img/dunquerke.png",
+        "modelo": "Dunquerke",
+        "tipo": "Bolso",
+        "tamanio":"35x20x15cm",
+        "genero": "unisex",
+        "precio": 20000,
+        "stock": 8,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 4,
+        "imgSrc": "assets/img/ifr.png",
+        "modelo": "IFR",
+        "tamanio":"35x20x15cm",
+        "tipo": "Bolso",
+        "genero": "unisex",
+        "precio": 10000,
+        "stock": 3,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 5,
+        "imgSrc": "assets/img/halcones.png",
+        "modelo": "Bolso",
+        "tamanio":"35x20x15cm",
+        "tipo": "Bolso de Vuelo",
+        "genero": "unisex",
+        "precio": 12000,
+        "stock": 3,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 6,
+        "imgSrc": "assets/img/dunquerke2.png",
+        "modelo": "Dunquerke",
+        "tipo": "Morral",
+        "tamanio":"30x30x15cm",
+        "genero": "unisex",
+        "precio": 20000,
+        "stock": 8,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 7,
+        "imgSrc": "assets/img/Fels.png",
+        "modelo": "Fels",
+        "tipo": "Accesorio",
+        "tamanio":"20x15x10cm",
+        "genero": "unisex",
+        "precio": 5000,
+        "stock": 12,
+        "agregadoCarrito": false
+    },
+    {
+        "id": 8,
+        "imgSrc": "assets/img/1000ftwallet.png",
+        "modelo": "Wallet - FT",
+        "tipo": "Accesorio",
+        "tamanio":"15x10cm",
+        "genero": "unisex",
+        "precio": 3500,
+        "stock": 6,
+        "agregadoCarrito": false
+    }
+]
